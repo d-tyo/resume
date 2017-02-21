@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Len Lye</title>
+</head>
+
+<body>
+	<h1>Len Lye</h1>
+
+	<h2>About</h2>
+
+		<p>Leonard Charles Huia "Len" Lye (5 July 1901 - 15 May 1980), was a Christchurch, New Zealand-born artist known primarily for his experimental films and kinetic sculpture.</p>
+
+		<p><strong>Born</strong>Leonard Charles Huia Lye<br>June 5, 1901<br>Christchurch,South Island,New Zealand<br><strong>Died</strong>May 15,1980 (aged 78)<br>Warwick, New York, United States<br><strong>Nationality</strong>New Zealander, American<br><strong>Known</strong>for Film, sculpture</p>
+
+	<h2>Contents</h2>
+
+	<ol>
+		<li>Career</li>
+		<li>Personal Life</li>
+		<li>Len Lye Collection</li>
+	</ol>
+
+	<ul>
+		<li>Len Lye
+			<ul>
+				<li>Filmography
+					<ul>
+						<li>Tusalava</li>
+						<li>The Peanut Vendor</li>
+						<li>A Colour Box</li>
+						<li>Kaleidoscope</li>
+					</ul>	
+				</li>
+				<li>Documentaries
+					<ol>
+						<li>Flip</li>
+						<li>Two Twisters</li>
+					</ol>
+				</li>
+			</ul>
+		</li>
+	</ul>
+
+</body>
+</html>
